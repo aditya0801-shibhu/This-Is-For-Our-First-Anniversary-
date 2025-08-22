@@ -42,14 +42,21 @@ dateEl.textContent = new Date().toLocaleDateString(undefined, {
 const LETTER_LINES = [
   "My Love,",
   "",
-  "Har din tumhare saath thoda aur sundar ho jata hai.",
-  "Tumhari hasi, tumhari baatein, aur tumhari choti choti si aadatein—",
-  "sab kuch mere dil ko ghar jaisa sukoon deti hain.",
+  "Tere Bina Din Adhoora Sa Lagta Hai,  
+  Jaise Suraj Ho Lekin Roshni Na Ho...  
+  Tere Bina Dil Udas Sa Lagta Hai,  
+  Jaise Geet Ho Lekin Dhun Na Ho...  
+
+  Tere Saath Har Lamha Ek Kahani Ban Jata Hai,  
+  Aur Main Chahta Hoon Yeh Kahani Kabhi Khatam Na Ho...  
+  Tu Meri khwahisho Ka Wo Hissa Hai,  
+  Jo Hamesha Bhagwan Ke Saamne Pehle Nikalta Ho... ❤️
+",
   "",
-  "Main wada karta hoon: khushiyon mein tumhare saath hansunga,",
-  "aur mushkilon mein tumhara haath kabhi nahi chhodunga.",
+  "Main Wada Karta Hoon: Khushiyon Mein Tumhare Saath Hansunga,",
+  "Aur Mushkilon Mein Tumhara Haath Kabhi Nahi Chhodunga.",
   "",
-  "Tum meri favorite aadat ho. Forever. 💖"
+  "Tum Meri Favorite Aadat Ho. Jise Roz Subah Uthte Hue Ydd Krta Hu Aur Rtton Ko Sote Waqt Ydd Krta Hu Forever. 💖"
 ];
 
 // Typewriter effect
