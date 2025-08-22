@@ -46,6 +46,10 @@ const LETTER_LINES = [
   "jaise suraj ho lekin roshni na ho.",
   "Tere bina dil udas sa lagta hai.",
   "jaise geet ho lekin dhun na ho.",
+  "Tere saath har lamha ek kahani ban jata hai."
+  "aur main chahta hoon yeh kahani kabhi khatam na ho."
+  "Tu meri khwahishon ka wo hissa hai."
+  "jo hamesha bhagwan ke saamne pehle nikalta ho. ❤️"
   "",
   "Main wada karta hoon: khushiyon mein tumhare saath hansunga,",
   "aur mushkilon mein tumhara haath kabhi nahi chhodunga.",
