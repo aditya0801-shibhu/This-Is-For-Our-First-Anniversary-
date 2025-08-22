@@ -42,9 +42,10 @@ dateEl.textContent = new Date().toLocaleDateString(undefined, {
 const LETTER_LINES = [
   "My Love,",
   "",
-  "Har din tumhare saath thoda aur sundar ho jata hai.",
-  "Tumhari hasi, tumhari baatein, aur tumhari choti choti si aadatein—",
-  "sab kuch mere dil ko ghar jaisa sukoon deti hain.",
+  "Tere bina din adhoora sa lagta hai.",
+  "jaise suraj ho lekin roshni na ho.",
+  "Tere bina dil udas sa lagta hai.",
+  "jaise geet ho lekin dhun na ho.",
   "",
   "Main wada karta hoon: khushiyon mein tumhare saath hansunga,",
   "aur mushkilon mein tumhara haath kabhi nahi chhodunga.",
